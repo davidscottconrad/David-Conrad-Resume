@@ -57,4 +57,32 @@ This repo contains:
 
 ---
 
+## How to Replace the Resume PDF via GitHub GUI
+
+To replace the `David_Conrad_Resume.pdf` file with a new version using GitHub's web interface:
+
+1. **Navigate to the file**: Go to the repository's main page on GitHub and click on `David_Conrad_Resume.pdf`
+
+2. **Delete the old file**:
+   - Click the trash/delete icon (🗑️) in the upper right corner of the file view
+   - Add a commit message like "Remove old resume for replacement"
+   - Click "Commit changes"
+
+3. **Upload the new file**:
+   - Go back to the repository's main page
+   - Click "Add file" → "Upload files"
+   - Drag and drop your new `David_Conrad_Resume.pdf` file (must have the exact same name)
+   - Add a commit message like "Upload updated resume"
+   - Click "Commit changes"
+
+**Alternative method (faster)**:
+1. Navigate to the repository's main page
+2. Click "Add file" → "Upload files"
+3. Drag and drop your new `David_Conrad_Resume.pdf` file
+4. GitHub will automatically detect the file exists and replace it
+5. Add a commit message like "Update resume"
+6. Click "Commit changes"
+
+---
+
 If you’re a recruiter or hiring manager, feel free to reach out — I’m always open to discussing new opportunities!
